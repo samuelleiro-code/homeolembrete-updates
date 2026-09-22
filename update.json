@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/samuelleiro-code/homeolembrete-updates/releases/latest/download/HomeoLembrete.apk",
+  "mandatory": false,
+  "publishedAt": "2026-09-22",
+  "notes": "Primeira versão funcional do HomeoLembrete para Android."
+}
