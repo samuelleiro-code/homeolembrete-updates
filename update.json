@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 4,
+  "versionName": "1.3.0",
   "apkUrl": "https://github.com/samuelleiro-code/homeolembrete-updates/releases/latest/download/HomeoLembrete.apk",
-  "sha256": "c0da2ae5133e67be93b9c9865a6222c414a541d91b1bc9a91ac8788b7d5c0a73",
+  "sha256": "fcb666757916e6d3dccec3ac205f5577a12e6ee923d54c140e99402e0f70cc27",
   "mandatory": false,
   "publishedAt": "2026-09-22",
-  "notes": "Redesign visual completo, nova navegação, cadastro mais claro e melhorias de acabamento."
+  "notes": "Cabeçalho recolhível, interface refinada, textos humanizados, histórico aprimorado e checagem automática de atualizações."
 }
